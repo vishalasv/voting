@@ -45,7 +45,7 @@ int main(int argc, char **argv)              //main function
             continue;
         }
 
-        if((2020-yyyy<=18))
+        if((2021-yyyy<=18))
         {
             printf("\nYou are not of legal age to vote. Kinly allow the next vote");
             continue;
